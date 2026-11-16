@@ -1,4 +1,5 @@
 #!/bin/bash
+#Part 1
 
 URL="https://www.tntech.edu/engineering/programs/csc/faculty-and-staff.php"
 

@@ -1,5 +1,4 @@
 #!/bin/bash
-# main.sh - hAlberd Technologies Faculty Onboarding Tool
 # Run from the eagle-ops folder:  sudo ./scripts/main.sh
 
 cd "$(dirname "$0")/.." || exit 1

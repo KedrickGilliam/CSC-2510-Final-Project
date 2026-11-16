@@ -2,7 +2,7 @@
 
 # The hash of the real 16-digit key (the key itself is never written anywhere).
 # readonly means these two values can't be changed while the program runs.
-readonly LICENSE_SHA256="79cffe9d7c5fec8ff40611261d4f1c72e14f03058290eea750e1ac74fb5df4f2"
+readonly LICENSE_SHA256="062cc03ae273dc3800d5786e464e14d2c4a4886e362dc7c57c9d56d1b21cfc45"
 
 # Where the license file is saved: in the home folder of whoever runs the program.
 # ${XDG_STATE_HOME:-$HOME/.local/state} means "use XDG_STATE_HOME if it is set,

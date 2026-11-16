@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Part 3
 
 if [ "$EUID" -ne 0 ]; then
 	echo "Error: this action must be run with sudo."

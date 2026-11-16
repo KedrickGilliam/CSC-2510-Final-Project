@@ -1,4 +1,5 @@
 #!/bin/bash
+#Part 2
 
 names_file=$(realpath "${1:-$(dirname "$0")/../faculty_names.txt}")
 cd "$(dirname "$0")/.." || exit 1
