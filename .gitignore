@@ -1,0 +1,14 @@
+# Files created when the program runs - never upload these to GitHub
+
+# Scraper output (regenerated every run)
+faculty_page.html
+faculty_names.txt
+
+# License files (each install creates its own; never share them)
+*.dat
+
+# Never commit the license key itself
+*.key
+license_key*
+# The license key itself is kept outside the project; never commit it
+STAKEHOLDER_KEY_DO_NOT_COMMIT.txt
